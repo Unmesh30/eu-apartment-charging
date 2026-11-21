@@ -16,7 +16,6 @@ body { font: 15px/1.45 Inter, system-ui, -apple-system, "Segoe UI", Roboto, Aria
   width: 1280px; height: 720px; margin: 24px auto; padding: 44px 56px 30px; background: #ffffff;
   display: flex; flex-direction: column; box-shadow: 0 10px 40px -12px rgba(15, 23, 42, 0.25);
 }
-@media print { html, body { background: #ffffff; } .slide { margin: 0; box-shadow: none; } .tools { display: none; } }
 .tools { width: 1280px; margin: 16px auto -8px; display: flex; justify-content: flex-end; gap: 10px; font-size: 13px; }
 .tools a { color: #1d4ed8; text-decoration: none; font-weight: 600; }
 .tools a:hover { text-decoration: underline; }
@@ -42,6 +41,7 @@ ol li::marker { color: #2563eb; font-weight: 700; }
 .why-t { font-size: 13px; font-weight: 700; color: #1d4ed8; }
 .why p { margin: 4px 0 0; font-size: 14px; color: #1e293b; }
 .foot { margin-top: 14px; padding-top: 10px; border-top: 1px solid #e2e8f0; font-size: 11.5px; color: #64748b; line-height: 1.45; }
+@media print { html, body { background: #ffffff; } .slide { margin: 0; box-shadow: none; } .tools { display: none; } }
 </style>
 </head>
 <body>
