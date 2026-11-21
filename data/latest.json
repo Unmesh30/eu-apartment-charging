@@ -1,0 +1,685 @@
+{
+ "author": {
+  "code": "https://github.com/Unmesh30/eu-apartment-charging",
+  "linkedin": "https://www.linkedin.com/in/unmesh-achar-319467210/",
+  "name": "Unmesh Achar"
+ },
+ "checks": [
+  {
+   "ok": true,
+   "text": "Electric cars: all 27 countries, 2024 and 2025"
+  },
+  {
+   "ok": true,
+   "text": "Electric cars under 60% of all cars (unit check)"
+  },
+  {
+   "detail": "A jump outside this range is usually a change in how a country counts, not a real market move.",
+   "ok": true,
+   "text": "Yearly change within -10% to +150% everywhere"
+  },
+  {
+   "ok": true,
+   "text": "Homes survey: all 27 countries, 2025"
+  },
+  {
+   "ok": true,
+   "text": "Houses + flats + other = 100% (±1.5) everywhere"
+  },
+  {
+   "ok": true,
+   "text": "Small + big blocks = all flats (±1.0) everywhere"
+  },
+  {
+   "ok": true,
+   "text": "Cars and homes from the same year (2025)"
+  },
+  {
+   "ok": true,
+   "text": "Estimates in order: 10+ flats ≤ all flats ≤ all cars"
+  },
+  {
+   "detail": "Bulgaria, Greece, France, Ireland, Lithuania, Luxembourg, Netherlands, Poland, Portugal, Slovenia, Slovakia",
+   "ok": true,
+   "text": "Eurostat flags shown next to the numbers (11 countries)"
+  }
+ ],
+ "countries": {
+  "AT": "Austria",
+  "BE": "Belgium",
+  "BG": "Bulgaria",
+  "CY": "Cyprus",
+  "CZ": "Czechia",
+  "DE": "Germany",
+  "DK": "Denmark",
+  "EE": "Estonia",
+  "EL": "Greece",
+  "ES": "Spain",
+  "FI": "Finland",
+  "FR": "France",
+  "HR": "Croatia",
+  "HU": "Hungary",
+  "IE": "Ireland",
+  "IT": "Italy",
+  "LT": "Lithuania",
+  "LU": "Luxembourg",
+  "LV": "Latvia",
+  "MT": "Malta",
+  "NL": "Netherlands",
+  "PL": "Poland",
+  "PT": "Portugal",
+  "RO": "Romania",
+  "SE": "Sweden",
+  "SI": "Slovenia",
+  "SK": "Slovakia"
+ },
+ "flag_meanings": {
+  "b": "break in series",
+  "c": "confidential",
+  "d": "definition differs",
+  "e": "estimated",
+  "f": "forecast",
+  "i": "imputed",
+  "n": "not significant",
+  "p": "provisional",
+  "r": "revised",
+  "s": "Eurostat estimate",
+  "u": "low reliability",
+  "z": "not applicable"
+ },
+ "generated_at": "2026-11-21T23:40Z",
+ "insights": [
+  "Germany has the most electric cars in flats (1.19M), but in buildings with 10+ flats France leads (398k vs 352k).",
+  "In Germany, 7 in 10 people who live in a flat live in a building with fewer than 10 flats. The 2027 rules apply from 4 parking spaces, so smaller buildings are in scope when built or renovated.",
+  "Spain has the highest share of people in big apartment buildings of the top ten (45.9%), and its electric cars grew 50% in 2025 from a low base (1.1% of all cars)."
+ ],
+ "rows": {
+  "AT": {
+   "big": 32.9,
+   "est_all": 126797,
+   "est_big": 84789,
+   "ev": 257717,
+   "ev_share": 4.875,
+   "flags": "",
+   "flat": 49.2,
+   "growth": 28.471,
+   "small": 16.2
+  },
+  "BE": {
+   "big": 7.3,
+   "est_all": 93660,
+   "est_big": 28849,
+   "ev": 395188,
+   "ev_share": 6.44,
+   "flags": "",
+   "flat": 23.7,
+   "growth": 30.088,
+   "small": 16.4
+  },
+  "BG": {
+   "big": 40.0,
+   "est_all": 9954,
+   "est_big": 8618,
+   "ev": 21545,
+   "ev_share": 0.662,
+   "flags": "i",
+   "flat": 46.2,
+   "growth": 20.863,
+   "small": 6.2
+  },
+  "CY": {
+   "big": 9.4,
+   "est_all": 1253,
+   "est_big": 493,
+   "ev": 5244,
+   "ev_share": 0.785,
+   "flags": "",
+   "flat": 23.9,
+   "growth": 58.095,
+   "small": 14.6
+  },
+  "CZ": {
+   "big": 35.2,
+   "est_all": 29382,
+   "est_big": 20279,
+   "ev": 57611,
+   "ev_share": 0.85,
+   "flags": "",
+   "flat": 51.0,
+   "growth": 58.529,
+   "small": 15.7
+  },
+  "DE": {
+   "big": 17.3,
+   "est_all": 1192076,
+   "est_big": 351927,
+   "ev": 2034260,
+   "ev_share": 4.111,
+   "flags": "",
+   "flat": 58.6,
+   "growth": 23.166,
+   "small": 41.3
+  },
+  "DK": {
+   "big": 26.3,
+   "est_all": 180687,
+   "est_big": 142277,
+   "ev": 540979,
+   "ev_share": 17.925,
+   "flags": "",
+   "flat": 33.4,
+   "growth": 57.061,
+   "small": 7.2
+  },
+  "EE": {
+   "big": 50.3,
+   "est_all": 6235,
+   "est_big": 5116,
+   "ev": 10171,
+   "ev_share": 1.257,
+   "flags": "",
+   "flat": 61.3,
+   "growth": 25.398,
+   "small": 11.0
+  },
+  "EL": {
+   "big": 20.8,
+   "est_all": 18005,
+   "est_big": 6262,
+   "ev": 30108,
+   "ev_share": 0.487,
+   "flags": "i",
+   "flat": 59.8,
+   "growth": 67.388,
+   "small": 39.0
+  },
+  "ES": {
+   "big": 45.9,
+   "est_all": 202455,
+   "est_big": 143628,
+   "ev": 312914,
+   "ev_share": 1.147,
+   "flags": "",
+   "flat": 64.7,
+   "growth": 50.266,
+   "small": 18.8
+  },
+  "FI": {
+   "big": 35.9,
+   "est_all": 66089,
+   "est_big": 60835,
+   "ev": 169458,
+   "ev_share": 4.468,
+   "flags": "",
+   "flat": 39.0,
+   "growth": 39.427,
+   "small": 3.1
+  },
+  "FR": {
+   "big": 25.8,
+   "est_all": 566442,
+   "est_big": 398208,
+   "ev": 1543440,
+   "ev_share": 3.863,
+   "flags": "i",
+   "flat": 36.7,
+   "growth": 36.321,
+   "small": 10.8
+  },
+  "HR": {
+   "big": 17.2,
+   "est_all": 3129,
+   "est_big": 2170,
+   "ev": 12616,
+   "ev_share": 0.613,
+   "flags": "",
+   "flat": 24.8,
+   "growth": 25.595,
+   "small": 7.6
+  },
+  "HU": {
+   "big": 20.8,
+   "est_all": 22889,
+   "est_big": 17965,
+   "ev": 86372,
+   "ev_share": 1.974,
+   "flags": "",
+   "flat": 26.5,
+   "growth": 43.449,
+   "small": 5.6
+  },
+  "IE": {
+   "big": 6.1,
+   "est_all": 10330,
+   "est_big": 6301,
+   "ev": 103299,
+   "ev_share": 3.944,
+   "flags": "i",
+   "flat": 10.0,
+   "growth": 33.572,
+   "small": 3.9
+  },
+  "IT": {
+   "big": 27.2,
+   "est_all": 209365,
+   "est_big": 98525,
+   "ev": 362224,
+   "ev_share": 0.867,
+   "flags": "",
+   "flat": 57.8,
+   "growth": 29.548,
+   "small": 30.6
+  },
+  "LT": {
+   "big": 50.7,
+   "est_all": 13634,
+   "est_big": 11736,
+   "ev": 23148,
+   "ev_share": 1.274,
+   "flags": "p",
+   "flat": 58.9,
+   "growth": 47.055,
+   "small": 8.3
+  },
+  "LU": {
+   "big": 16.5,
+   "est_all": 16954,
+   "est_big": 6598,
+   "ev": 39986,
+   "ev_share": 8.659,
+   "flags": "b",
+   "flat": 42.4,
+   "growth": 22.589,
+   "small": 25.9
+  },
+  "LV": {
+   "big": 57.2,
+   "est_all": 9059,
+   "est_big": 7960,
+   "ev": 13916,
+   "ev_share": 1.733,
+   "flags": "",
+   "flat": 65.1,
+   "growth": 50.704,
+   "small": 7.9
+  },
+  "MT": {
+   "big": 12.6,
+   "est_all": 6383,
+   "est_big": 1234,
+   "ev": 9790,
+   "ev_share": 2.916,
+   "flags": "",
+   "flat": 65.2,
+   "growth": 34.091,
+   "small": 52.6
+  },
+  "NL": {
+   "big": 15.0,
+   "est_all": 148372,
+   "est_big": 102091,
+   "ev": 680605,
+   "ev_share": 7.229,
+   "flags": "i",
+   "flat": 21.8,
+   "growth": 19.584,
+   "small": 6.8
+  },
+  "PL": {
+   "big": 33.6,
+   "est_all": 43857,
+   "est_big": 34511,
+   "ev": 102710,
+   "ev_share": 0.442,
+   "flags": "i",
+   "flat": 42.7,
+   "growth": 65.176,
+   "small": 9.1
+  },
+  "PT": {
+   "big": 21.2,
+   "est_all": 119942,
+   "est_big": 51266,
+   "ev": 241819,
+   "ev_share": 3.772,
+   "flags": "p",
+   "flat": 49.6,
+   "growth": 46.277,
+   "small": 28.5
+  },
+  "RO": {
+   "big": 32.8,
+   "est_all": 22123,
+   "est_big": 20157,
+   "ev": 61453,
+   "ev_share": 0.7,
+   "flags": "",
+   "flat": 36.0,
+   "growth": 23.912,
+   "small": 3.1
+  },
+  "SE": {
+   "big": 40.5,
+   "est_all": 209431,
+   "est_big": 175247,
+   "ev": 432709,
+   "ev_share": 8.586,
+   "flags": "",
+   "flat": 48.4,
+   "growth": 20.782,
+   "small": 8.0
+  },
+  "SI": {
+   "big": 18.8,
+   "est_all": 6653,
+   "est_big": 4615,
+   "ev": 24548,
+   "ev_share": 1.908,
+   "flags": "b",
+   "flat": 27.1,
+   "growth": 44.877,
+   "small": 8.3
+  },
+  "SK": {
+   "big": 39.8,
+   "est_all": 8748,
+   "est_big": 7520,
+   "ev": 18895,
+   "ev_share": 0.682,
+   "flags": "i",
+   "flat": 46.3,
+   "growth": 29.312,
+   "small": 6.6
+  }
+ },
+ "rules": {
+  "checked": "2026-11-21",
+  "country": "DE",
+  "law": "Amended GEIG, published 28 July 2026; carries over EU directive 2024/1275.",
+  "limit": "Existing buildings that aren't renovated get no new duty from this law.",
+  "points": [
+   "New apartment buildings with more than 3 parking spaces: pre-cable at least half of the spaces and put in at least one charging point.",
+   "Major renovations that include the car park or its wiring: pre-cable at least half of the spaces, also from 4 spaces.",
+   "New or replaced charging points under the law must support smart charging on open, non-proprietary standards."
+  ],
+  "sources": [
+   {
+    "label": "DIHK summary",
+    "url": "https://www.dihk.de/de/serviceportal/fuer-gewerbetreibende-unternehmer/elektromobilitaetsinfrastruktur-an-gebaeuden-das-gilt-ab-2027-192330"
+   },
+   {
+    "label": "IHK Freiburg",
+    "url": "https://www.ihk.de/freiburg/unternehmen-beraten/umwelt-energie-und-klimaschutz/energie-und-klimaschutz/geig-novelle-7217958"
+   }
+  ],
+  "starts": "2027-01-01",
+  "title": "Germany 2027"
+ },
+ "sources": {
+  "cars": {
+   "cars": {
+    "AT": 5286101,
+    "BE": 6136034,
+    "BG": 3254325,
+    "CY": 667841,
+    "CZ": 6774399,
+    "DE": 49486487,
+    "DK": 3018026,
+    "EE": 809095,
+    "EL": 6188525,
+    "ES": 27281373,
+    "FI": 3792918,
+    "FR": 39957994,
+    "HR": 2058313,
+    "HU": 4374763,
+    "IE": 2619083,
+    "IT": 41795962,
+    "LT": 1816856,
+    "LU": 461762,
+    "LV": 802784,
+    "MT": 335693,
+    "NL": 9415540,
+    "PL": 23233513,
+    "PT": 6410754,
+    "RO": 8774808,
+    "SE": 5039431,
+    "SI": 1286588,
+    "SK": 2768900
+   },
+   "checks": [
+    {
+     "ok": true,
+     "text": "Electric cars: all 27 countries, 2024 and 2025"
+    },
+    {
+     "ok": true,
+     "text": "Electric cars under 60% of all cars (unit check)"
+    },
+    {
+     "detail": "A jump outside this range is usually a change in how a country counts, not a real market move.",
+     "ok": true,
+     "text": "Yearly change within -10% to +150% everywhere"
+    }
+   ],
+   "dataset": "road_eqs_carpda",
+   "ev": {
+    "AT": 257717,
+    "BE": 395188,
+    "BG": 21545,
+    "CY": 5244,
+    "CZ": 57611,
+    "DE": 2034260,
+    "DK": 540979,
+    "EE": 10171,
+    "EL": 30108,
+    "ES": 312914,
+    "FI": 169458,
+    "FR": 1543440,
+    "HR": 12616,
+    "HU": 86372,
+    "IE": 103299,
+    "IT": 362224,
+    "LT": 23148,
+    "LU": 39986,
+    "LV": 13916,
+    "MT": 9790,
+    "NL": 680605,
+    "PL": 102710,
+    "PT": 241819,
+    "RO": 61453,
+    "SE": 432709,
+    "SI": 24548,
+    "SK": 18895
+   },
+   "ev_prev": {
+    "AT": 200603,
+    "BE": 303784,
+    "BG": 17826,
+    "CY": 3317,
+    "CZ": 36341,
+    "DE": 1651643,
+    "DK": 344438,
+    "EE": 8111,
+    "EL": 17987,
+    "ES": 208240,
+    "FI": 121539,
+    "FR": 1132210,
+    "HR": 10045,
+    "HU": 60211,
+    "IE": 77336,
+    "IT": 279607,
+    "LT": 15741,
+    "LU": 32618,
+    "LV": 9234,
+    "MT": 7301,
+    "NL": 569144,
+    "PL": 62182,
+    "PT": 165316,
+    "RO": 49594,
+    "SE": 358255,
+    "SI": 16944,
+    "SK": 14612
+   },
+   "flags": {
+    "BG": "i",
+    "EL": "i",
+    "FR": "i",
+    "IE": "i",
+    "NL": "i",
+    "PL": "i",
+    "PT": "p",
+    "SI": "b",
+    "SK": "i"
+   },
+   "fresh": true,
+   "prev_year": 2024,
+   "pulled_at": "2026-11-21T23:40Z",
+   "table_page": "https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carpda/default/table?lang=en",
+   "updated": "2026-10-20T23:00:00+0200",
+   "year": 2025
+  },
+  "homes": {
+   "big": {
+    "AT": 32.9,
+    "BE": 7.3,
+    "BG": 40.0,
+    "CY": 9.4,
+    "CZ": 35.2,
+    "DE": 17.3,
+    "DK": 26.3,
+    "EE": 50.3,
+    "EL": 20.8,
+    "ES": 45.9,
+    "FI": 35.9,
+    "FR": 25.8,
+    "HR": 17.2,
+    "HU": 20.8,
+    "IE": 6.1,
+    "IT": 27.2,
+    "LT": 50.7,
+    "LU": 16.5,
+    "LV": 57.2,
+    "MT": 12.6,
+    "NL": 15.0,
+    "PL": 33.6,
+    "PT": 21.2,
+    "RO": 32.8,
+    "SE": 40.5,
+    "SI": 18.8,
+    "SK": 39.8
+   },
+   "checks": [
+    {
+     "ok": true,
+     "text": "Homes survey: all 27 countries, 2025"
+    },
+    {
+     "ok": true,
+     "text": "Houses + flats + other = 100% (±1.5) everywhere"
+    },
+    {
+     "ok": true,
+     "text": "Small + big blocks = all flats (±1.0) everywhere"
+    }
+   ],
+   "dataset": "ilc_lvho01",
+   "flags": {
+    "LT": "p",
+    "LU": "b"
+   },
+   "flat": {
+    "AT": 49.2,
+    "BE": 23.7,
+    "BG": 46.2,
+    "CY": 23.9,
+    "CZ": 51.0,
+    "DE": 58.6,
+    "DK": 33.4,
+    "EE": 61.3,
+    "EL": 59.8,
+    "ES": 64.7,
+    "FI": 39.0,
+    "FR": 36.7,
+    "HR": 24.8,
+    "HU": 26.5,
+    "IE": 10.0,
+    "IT": 57.8,
+    "LT": 58.9,
+    "LU": 42.4,
+    "LV": 65.1,
+    "MT": 65.2,
+    "NL": 21.8,
+    "PL": 42.7,
+    "PT": 49.6,
+    "RO": 36.0,
+    "SE": 48.4,
+    "SI": 27.1,
+    "SK": 46.3
+   },
+   "fresh": true,
+   "house": {
+    "AT": 50.6,
+    "BE": 76.0,
+    "BG": 53.5,
+    "CY": 75.0,
+    "CZ": 48.7,
+    "DE": 38.9,
+    "DK": 66.4,
+    "EE": 38.3,
+    "EL": 40.1,
+    "ES": 35.1,
+    "FI": 60.6,
+    "FR": 63.1,
+    "HR": 75.1,
+    "HU": 73.3,
+    "IE": 89.7,
+    "IT": 42.0,
+    "LT": 40.3,
+    "LU": 57.0,
+    "LV": 34.1,
+    "MT": 34.7,
+    "NL": 75.9,
+    "PL": 57.2,
+    "PT": 50.3,
+    "RO": 63.8,
+    "SE": 51.1,
+    "SI": 72.6,
+    "SK": 53.6
+   },
+   "pulled_at": "2026-11-21T23:40Z",
+   "small": {
+    "AT": 16.2,
+    "BE": 16.4,
+    "BG": 6.2,
+    "CY": 14.6,
+    "CZ": 15.7,
+    "DE": 41.3,
+    "DK": 7.2,
+    "EE": 11.0,
+    "EL": 39.0,
+    "ES": 18.8,
+    "FI": 3.1,
+    "FR": 10.8,
+    "HR": 7.6,
+    "HU": 5.6,
+    "IE": 3.9,
+    "IT": 30.6,
+    "LT": 8.3,
+    "LU": 25.9,
+    "LV": 7.9,
+    "MT": 52.6,
+    "NL": 6.8,
+    "PL": 9.1,
+    "PT": 28.5,
+    "RO": 3.1,
+    "SE": 8.0,
+    "SI": 8.3,
+    "SK": 6.6
+   },
+   "table_page": "https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho01/default/table?lang=en",
+   "updated": "2026-07-06T23:00:00+0200",
+   "year": 2025
+  }
+ },
+ "warnings": []
+}
