@@ -14,8 +14,8 @@ GERMANY_2027 = {
         "and put in at least one charging point.",
         "Major renovations that include the car park or its wiring: pre-cable at least half of the spaces, "
         "also from 4 spaces.",
-        "New or replaced charging points under the law must support smart charging on open, "
-        "non-proprietary standards.",
+        "New or replaced chargers under the law must allow smart charging and support open, "
+        "interoperable standards.",
     ],
     "limit": "Existing buildings that aren't renovated get no new duty from this law.",
     "law": "Amended GEIG, published 28 July 2026; carries over EU directive 2024/1275.",

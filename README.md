@@ -50,7 +50,7 @@ The amended GEIG was published in the Federal Law Gazette on 28 July 2026 and ca
 
 - new apartment buildings with more than 3 parking spaces must pre-cable at least half of them and put in at least one charging point;
 - major renovations that include the car park or its wiring must pre-cable at least half of the spaces, also from 4 spaces;
-- new or replaced charging points under the law must support smart charging on open, non-proprietary standards.
+- new or replaced chargers under the law must allow smart charging and support open, interoperable standards.
 
 Existing buildings that are not renovated get no new duty from this law. Summarised from the [DIHK](https://www.dihk.de/de/serviceportal/fuer-gewerbetreibende-unternehmer/elektromobilitaetsinfrastruktur-an-gebaeuden-das-gilt-ab-2027-192330) and [IHK Freiburg](https://www.ihk.de/freiburg/unternehmen-beraten/umwelt-energie-und-klimaschutz/energie-und-klimaschutz/geig-novelle-7217958) summaries, checked 21 Nov 2026. Not legal advice.
 
