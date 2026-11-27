@@ -87,7 +87,7 @@
   "u": "low reliability",
   "z": "not applicable"
  },
- "generated_at": "2026-11-26T17:49Z",
+ "generated_at": "2026-11-27T17:33Z",
  "insights": [
   "Germany has the most electric cars in flats (1.19M), but in buildings with 10+ flats France leads (398k vs 352k).",
   "In Germany, 7 in 10 people who live in a flat live in a building with fewer than 10 flats. The 2027 rules apply from 4 parking spaces, so smaller buildings are in scope when built or renovated.",
@@ -533,7 +533,7 @@
    },
    "fresh": true,
    "prev_year": 2024,
-   "pulled_at": "2026-11-26T17:49Z",
+   "pulled_at": "2026-11-27T17:33Z",
    "table_page": "https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carpda/default/table?lang=en",
    "updated": "2026-10-20T23:00:00+0200",
    "year": 2025
@@ -646,7 +646,7 @@
     "SI": 72.6,
     "SK": 53.6
    },
-   "pulled_at": "2026-11-26T17:49Z",
+   "pulled_at": "2026-11-27T17:33Z",
    "small": {
     "AT": 16.2,
     "BE": 16.4,
